@@ -1,0 +1,97 @@
+h1{
+    text-align:center;
+    background: linear-gradient(to left,
+                    darkblue,
+                    indigo,
+                    blue,
+                    green,
+                    yellow,
+                    orange,
+                    maroon););
+                    
+                    -webkit-background-clip: text;
+                    color: transparent;
+}
+.cover img{
+    width: 100%;
+    max-width: 300px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    float:right;
+}
+.cover p{
+    padding:100px;
+    background:beige;
+
+}
+h2{
+    text-align:center;
+    background:linear-gradient(lightblue,lightgreen);
+    padding:20px;
+}
+.places1 img{
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    float:left;
+}
+.places1 p{
+    padding:100px;
+    background:lightblue;
+}
+.places1 h1{
+    text-align: center;
+    color:black
+}
+.places2 img{
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    float:left;
+}
+.places2 p{
+    padding:100px;
+    background:lightblue;
+}
+.places2 h1{
+    text-align: center;
+    color:black
+}
+.places3 img{
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    float:left;
+}
+.places3 p{
+    padding:100px;
+    background:lightblue;
+}
+.places3 h1{
+    text-align: center;
+    color:black
+}
+.places4 img{
+    width: 380%;
+    max-width: 530px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+    float:left;
+}
+.places4 p{
+    
+    background:lightblue;
+    
+}
+.places4 h1{
+    text-align: center;
+    color:black
+}

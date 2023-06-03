@@ -1,0 +1,14 @@
+body{
+    background:linear-gradient(orange,white,green)
+}
+.cover img{
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    float:right;
+}
+h1,h4{
+    text-align:center;
+}
